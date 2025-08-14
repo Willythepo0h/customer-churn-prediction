@@ -11,7 +11,7 @@ It demonstrates skills across **machine learning**, **Excel analytics**, and **P
 
 | Folder | Description |
 |--------|-------------|
-| [**Machine Learning**](./Machine%20Learning) | End-to-end ML pipeline in Python (EDA, feature engineering, encoding, scaling, handling class imbalance, model comparison). |
+| [**Machine Learning**](./Machine%20Learning) | End-to-end ML pipeline in Python (EDA, encoding, feature engineering and scaling, handling class imbalance, model comparison). |
 | [**Excel**](./Excel) | Data cleaning, pivot tables, and visualizations to gain quick insights into churn patterns. |
 | [**Power BI**](./Power%20BI) | Interactive dashboard tracking churn rates, customer demographics, and service usage KPIs. |
 
@@ -21,7 +21,7 @@ It demonstrates skills across **machine learning**, **Excel analytics**, and **P
 - **Machine Learning:** Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn  
 - **Data Preparation:** EDA, feature encoding, scaling, class imbalance handling  
 - **Excel:** Data cleaning, formulas, pivot tables, charts  
-- **Power BI:** Data modeling, DAX measures, interactive dashboards  
+- **Power BI:** Data modeling, interactive dashboards  
 
 ---
 
@@ -40,7 +40,7 @@ The dataset is publicly available on Kaggle:
 ---
 
 ## 📌 How to Use  
-- **Machine Learning:** Open the Jupyter Notebook in the `Machine Learning` folder and run cells sequentially.  
+- **Machine Learning:** Open the Jupyter Notebook in the `Machine Learning` folder and download the .ipnyb file or .pdf file.  
 - **Excel:** Open the `.xlsx` files in the `Excel` folder to explore cleaned data and visualizations.  
 - **Power BI:** Open the `.pbix` file in the `Power BI` folder for the interactive dashboard.  
 
