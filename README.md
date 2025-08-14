@@ -1,2 +1,53 @@
-# customer-churn-prediction
-Customer churn prediction project with Machine Learning, Excel analytics, and Power BI dashboards.
+# Customer Churn Prediction – Portfolio Project  
+
+## 📌 Overview  
+This repository showcases a complete data analytics and machine learning project focused on predicting customer churn for a telecommunications company using the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).  
+
+It demonstrates skills across **machine learning**, **Excel analytics**, and **Power BI dashboarding**, simulating a real-world end-to-end workflow — from raw data analysis to predictive modeling and interactive reporting.  
+
+---
+
+## 📂 Repository Structure  
+
+| Folder | Description |
+|--------|-------------|
+| [**Machine Learning**](./Machine%20Learning) | End-to-end ML pipeline in Python (EDA, feature engineering, encoding, scaling, handling class imbalance, model comparison). |
+| [**Excel**](./Excel) | Data cleaning, pivot tables, and visualizations to gain quick insights into churn patterns. |
+| [**Power BI**](./Power%20BI) | Interactive dashboard tracking churn rates, customer demographics, and service usage KPIs. |
+
+---
+
+## 🛠 Skills & Tools Demonstrated  
+- **Machine Learning:** Pandas, Scikit-learn, XGBoost, Matplotlib, Seaborn  
+- **Data Preparation:** EDA, feature encoding, scaling, class imbalance handling  
+- **Excel:** Data cleaning, formulas, pivot tables, charts  
+- **Power BI:** Data modeling, DAX measures, interactive dashboards  
+
+---
+
+## 📊 Project Workflow  
+1. **Exploratory Data Analysis (EDA)** – Understanding dataset structure, distributions, and relationships.  
+2. **Feature Engineering & Encoding** – Converting categorical variables and scaling numeric features.  
+3. **Model Training & Evaluation** – Logistic Regression, Random Forest, and XGBoost compared with Accuracy & ROC-AUC.  
+4. **Business Insights** – Translating model outputs into actionable strategies using Excel and Power BI.  
+
+---
+
+## 📥 Dataset  
+The dataset is publicly available on Kaggle:  
+🔗 [Telco Customer Churn – Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
+
+---
+
+## 📌 How to Use  
+- **Machine Learning:** Open the Jupyter Notebook in the `Machine Learning` folder and run cells sequentially.  
+- **Excel:** Open the `.xlsx` files in the `Excel` folder to explore cleaned data and visualizations.  
+- **Power BI:** Open the `.pbix` file in the `Power BI` folder for the interactive dashboard.  
+
+---
+
+## 🚀 Future Improvements  
+- Hyperparameter tuning for higher accuracy  
+- Feature selection to reduce redundancy  
+- Adding more customer behavior datasets for improved generalization  
+
