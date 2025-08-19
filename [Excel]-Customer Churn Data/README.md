@@ -22,9 +22,8 @@ The goal is to identify churn patterns and quantify the financial impact of cust
 ---
 
 ## 📂 Project Files
-- `data/raw_dataset.csv` → Original dataset.  
-- `data/processed_dataset.xlsx` → Cleaned dataset used for analysis.  
-- `dashboard/Telco_Churn_Dashboard.xlsx` → Interactive Excel dashboard.  
+- `Raw dataset` → [Original dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+- `Processed dataset` → [Cleaned dataset used for analysis]([Excel]-Customer Churn Data/Telco-Customer-Churn.csv.xlsx)
 
 ---
 
