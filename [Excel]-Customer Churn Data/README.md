@@ -17,7 +17,7 @@ The goal is to identify churn patterns and quantify the financial impact of cust
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard Screenshot](dashboard/dashboard_screenshot.png)
+![Dashboard Screenshot](Telco_Customer_Churn_Dashboard.png)
 
 ---
 
@@ -32,8 +32,3 @@ The goal is to identify churn patterns and quantify the financial impact of cust
 - KPI creation (Churn Rate %, Revenue Lost).
 - Building interactive dashboards with slicers and charts.
 - Business insight storytelling.
-
----
-
-## 📌 Dataset Source
-[IBM Telco Customer Churn dataset](https://www.kaggle.com/blastchar/telco-customer-churn)
