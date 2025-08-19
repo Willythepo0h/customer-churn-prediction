@@ -22,7 +22,7 @@ The goal is to identify churn patterns and quantify the financial impact of cust
 ---
 
 ## 📂 Project Files
-- `Raw dataset` → [Original dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+- `Raw dataset` → [Kaggle original dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - `Processed dataset` → [Cleaned dataset used for analysis](https://github.com/Willythepo0h/customer-churn-prediction/blob/main/%5BExcel%5D-Customer%20Churn%20Data/Telco-Customer-Churn.csv.xlsx)
 
 ---
