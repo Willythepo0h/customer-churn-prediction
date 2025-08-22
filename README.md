@@ -3,7 +3,7 @@
 ## 📌 Overview  
 This repository showcases a complete data analytics and machine learning project focused on predicting customer churn for a telecommunications company using the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).  
 
-It demonstrates skills across **machine learning**, **Excel analytics**, and **Power BI dashboarding**, simulating a real-world end-to-end workflow — from raw data analysis to predictive modeling and interactive reporting.  
+The goal is to demonstrates skills across **machine learning**, **Excel analytics**, and **Power BI dashboarding**, simulating a real-world end-to-end workflow — from raw data analysis to predictive modeling and interactive reporting.  
 
 ---
 
