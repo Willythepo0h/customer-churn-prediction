@@ -13,7 +13,9 @@ The goal of this project is to analyze customer churn patterns and provide insig
 This dashboard provides interactive visuals to explore:
 - Customer demographics and service usage  
 - Churn rates segmented by different factors (e.g., contract type, tenure, payment method)  
-- Key metrics and trends that help understand customer behavior  
+- Key metrics and trends that help understand customer behavior
+
+![Dashboard](https://github.com/Willythepo0h/customer-churn-prediction/blob/main/%5BPowerBI%5D-Customer%20Churn%20Data/Customer_Churn_PowerBI_Dashboard.png)
 
 ---
 
