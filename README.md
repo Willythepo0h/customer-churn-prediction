@@ -11,7 +11,7 @@ The goal is to demonstrates skills across **machine learning**, **Excel analytic
 
 | Folder | Description |
 |--------|-------------|
-| [**Machine Learning**](./Machine%20Learning) | End-to-end ML pipeline in Python (EDA, encoding, feature engineering and scaling, handling class imbalance, model comparison). |
+| [**Machine Learning**](https://github.com/Willythepo0h/customer-churn-prediction/tree/main/%5BMachine_Learning%5D-Customer%20Churn%20Prediction) | End-to-end ML pipeline in Python (EDA, encoding, feature engineering and scaling, handling class imbalance, model comparison). |
 | [**Excel**](./Excel) | Data cleaning, pivot tables, and visualizations to gain quick insights into churn patterns. |
 | [**Power BI**](./Power%20BI) | Interactive dashboard tracking churn rates, customer demographics, and service usage KPIs. |
 
