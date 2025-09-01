@@ -1,7 +1,7 @@
 # Customer Churn Prediction – Portfolio Project  
 
 ## 📌 Overview  
-This repository showcases a complete data analytics and machine learning project focused on predicting customer churn for a telecommunications company using the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).  
+This repository showcases a complete data analytics and machine learning project focused on predicting customer churn for a telecommunications company using the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn) from Kaggle.  
 
 The goal is to demonstrates skills across **machine learning**, **Excel analytics**, and **Power BI dashboarding**, simulating a real-world end-to-end workflow — from raw data analysis to predictive modeling and interactive reporting.  
 
@@ -36,13 +36,6 @@ The goal is to demonstrates skills across **machine learning**, **Excel analytic
 ## 📥 Dataset  
 The dataset is publicly available on Kaggle:  
 🔗 [Telco Customer Churn – Kaggle](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
-
----
-
-## 📌 How to Use  
-- **Machine Learning:** Open the Jupyter Notebook in the `Machine Learning` folder and download the .ipnyb file or .pdf file.  
-- **Excel:** Open the `.xlsx` files in the `Excel` folder to explore cleaned data and visualizations.  
-- **Power BI:** Open the `.pbix` file in the `Power BI` folder for the interactive dashboard.  
 
 ---
 
